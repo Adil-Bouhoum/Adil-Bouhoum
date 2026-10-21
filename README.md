@@ -15,4 +15,4 @@ Python · PyTorch · Hugging Face Transformers · scikit-learn · XGBoost · Riv
 
 ### Contact
 
-[Portfolio]([PORTFOLIO_URL]) · [LinkedIn]([LINKEDIN_URL]) · [Email]([EMAIL])
+[LinkedIn](https://www.linkedin.com/in/adil-bouhoum-b83129232) · [Email](mailto:adilbhm2003@gmail.com)
